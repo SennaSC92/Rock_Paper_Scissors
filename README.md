@@ -7,4 +7,4 @@ I learnt how to do the following:
 * How to use functions in more depth.
 * Using for loops to create a game loop.
 
-I found this challengin but I didin't give up and am very pleased that I did complete it. I have gained more knowledge and understanding surrounding functions and loops.
+I found this challenging but I didin't give up and am very pleased that I did complete it. I have gained more knowledge and understanding surrounding functions and loops.
